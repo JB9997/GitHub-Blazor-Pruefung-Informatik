@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GitHub_&_Blazor_Pruefung_Informatik/1.0.0": {
+        "runtime": {
+          "GitHub_&_Blazor_Pruefung_Informatik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHub_&_Blazor_Pruefung_Informatik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
